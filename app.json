@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "robohash",
+    "slug": "robohash",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "https://robohash.org/robohash",
+    "splash": {
+      "image": "https://robohash.org/static/img/top_logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "https://robohash.org/robohash",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "https://robohash.org/robohash"
+    },
+    "plugins": []
+  }
+}
